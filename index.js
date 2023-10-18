@@ -1,0 +1,1 @@
+ReactDOM.render(<p>My name is Wind</p>, document.getElementById("root"))
