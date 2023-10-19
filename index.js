@@ -1,1 +1,1 @@
-ReactDOM.render(<p>My name is Wind</p>, document.getElementById("root"))
+ReactDOM.createRoot(document.getElementById("root")).render(<p>My name is Wind</p>)
